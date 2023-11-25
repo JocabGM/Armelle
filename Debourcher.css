@@ -1,0 +1,70 @@
+h1{
+    background-color: rgba(45, 117, 122, 0.322);
+    padding: 10px;
+    text-align: justify;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+ }
+ section{
+    
+    font-family: serif;
+ }
+ li{
+   list-style-type: square;
+   margin-left: 50px;
+   margin-top: 12px;
+ }
+ button{
+   background-color: #4CAF50; /* Green */
+   height: 50px;
+   width: 80px;
+    border: 3px solid rgb(82, 133, 116);
+    border-radius: 2px;
+    margin-left: 1200px;
+    
+    cursor: pointer;
+    font-size: 20px;
+ }
+ .amou{
+   display: flex;
+
+ }
+ .iii{
+   border:3px solid rgb(29, 28, 28) ;
+   margin-left: 50px;
+   border-radius: 10px;
+   width: 460px;
+   background: linear-gradient(to bottom,rgb(95, 175, 80), rgb(239, 240, 241));
+ }
+ .iiii{
+   border: 3px solid rgb(41, 39, 39);
+   margin-left: 200px;
+   border-radius: 10px;
+   width: 460px;
+   background: linear-gradient(to bottom,rgb(216, 197, 90), rgb(239, 240, 241));
+  
+ }
+ h2{
+   text-align: center;
+ }
+ h3{
+   text-align: center;
+
+ }
+ .feli{
+   display: flex;
+ }
+ .iiiii{
+   border: 3px solid rgb(41, 39, 39);
+   margin-left: 60px;
+   border-radius: 10px;
+   width: 460px;
+   background: linear-gradient(to bottom,rgb(22, 175, 202), rgb(239, 240, 241));
+ }
+ .iiiiii{
+   border: 3px solid rgb(41, 39, 39);
+   margin-left: 200px;
+   border-radius: 10px;
+   width: 460px;
+   background: linear-gradient(to bottom,rgb(22, 70, 202), rgb(239, 240, 241));
+ }
